@@ -1,7 +1,7 @@
 # Typescript Assignmnet 1
 
 ## Description
-this project uses dummy JSON api for `product` and render the data table using Typescript
+this project uses dummy JSON api (`https://dummyjson.com/products`) for `products` and render the data table using Typescript
 
 ## Prerequisites
 
