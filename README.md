@@ -1,6 +1,7 @@
-# Project Name
+# Typescript Assignmnet 1
 
-This is a brief description of the project.
+## Description
+this project uses dummy JSON api for `product` and render the data table using Typescript
 
 ## Prerequisites
 
